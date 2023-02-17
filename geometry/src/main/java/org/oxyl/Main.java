@@ -93,15 +93,7 @@ public class Main {
         System.out.println("gjdfv");
         System.out.println("gjdfv");
         System.out.println("gjdfv");
-        System.out.println("gjdfv");
-        System.out.println("gjdfv");
-        System.out.println("gjdfv");
-        System.out.println("gjdfv");
-        System.out.println("gjdfv");
 
-        for (int i = 0; i<10;i++){
-            System.out.print("hello");
-        }
 
 
 
