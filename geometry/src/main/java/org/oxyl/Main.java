@@ -88,6 +88,8 @@ public class Main {
                 return 0;
             }
         };
+
+        loop(20);
         System.out.println("gjdfv");
         System.out.println("gjdfv");
         System.out.println("gjdfv");
@@ -99,5 +101,10 @@ public class Main {
 
 
 
+    }
+    public static void loop(int i){
+        while (i > 1){
+            i--;
+        }
     }
 }
